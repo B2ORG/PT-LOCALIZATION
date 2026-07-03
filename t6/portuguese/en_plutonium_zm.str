@@ -1,0 +1,253 @@
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           "T6 is all UTF-8 encoded"
+
+// MODS
+
+REFERENCE           MOD_LOAD
+LANG_ENGLISH        "Carregar Mod?"
+
+REFERENCE           MOD_DESCRIPTION
+LANG_ENGLISH        "Descrição: &&1"
+
+REFERENCE           MOD_VERSION
+LANG_ENGLISH        "Versão: &&1"
+
+REFERENCE           MOD_NONE_FOR_MODE
+LANG_ENGLISH        "Nenhum mod encontrado para o modo atual.\nCertifique-se de que o mod tenha o prefixo \"&&1\" para ser encontrado."
+
+REFERENCE           MENU_UNLOAD
+LANG_ENGLISH        "Descarregar"
+
+// PARTYLOBBY
+
+REFERENCE           MENU_UNLOCK_ALL_CAPS
+LANG_ENGLISH        "DESBLOQUEAR TUDO"
+
+REFERENCE           MENU_UNLOCK_POPUP
+LANG_ENGLISH        "Tem certeza que deseja desbloquear tudo?"
+
+REFERENCE           MENU_UNLOCK_STATS_BUTTON
+LANG_ENGLISH        "Desbloquear todas as estatísticas"
+
+REFERENCE           MENU_RESET_STATS_BUTTON
+LANG_ENGLISH        "Resetar todas as estatísticas"
+
+// OPTIONCONTROLS
+
+REFERENCE           MENU_SLIDER_ARROW_HINT
+LANG_ENGLISH        "Use as setas esquerda e direita para ajustes mais precisos."
+
+REFERENCE           MENU_MOUSE_RAW_INPUT_CAPS
+LANG_ENGLISH        "ENTRADA BRUTA"
+
+REFERENCE           MENU_MOUSE_RAW_INPUT_HINT
+LANG_ENGLISH        "Ative a Entrada Bruta (Raw Input). Para as alterações terem efeito, é necessário reiniciar o jogo."
+
+REFERENCE           MENU_MOUSE_ACCEL_CAPS
+LANG_ENGLISH        "ACELERAÇÃO DO MOUSE"
+
+REFERENCE           MENU_MOUSE_FIX_POOLINGRATE_CAPS
+LANG_ENGLISH        "CORRIGIR LAG DE TAXA DE ATUALIZAÇÃO ALTA (Polling Rate)"
+
+REFERENCE           MENU_MOUSE_FIX_POOLINGRATE_HINT
+LANG_ENGLISH        "Reduz quedas de FPS em dispositivos de entrada com altas taxas de atualização."
+
+REFERENCE           PLATFORM_NEXT_SCORE_STREAK_HINT
+LANG_ENGLISH        "Tecla usada para equipar o equipamento."
+
+REFERENCE           PLATFORM_PREVIOUS_SCORE_STREAK_HINT
+LANG_ENGLISH        "Tecla usada para usar o Vant Maxis (apenas Origins)."
+
+REFERENCE           PLATFORM_ACTIVATE_SCORE_STREAK_HINT
+LANG_ENGLISH        "Tecla usada para equipar Claymores."
+
+REFERENCE           MENU_TARGET_ASSIST_DISABLED_INGAME
+LANG_ENGLISH        "O Aim Assist está desativado neste servidor."
+
+REFERENCE           MENU_GPAD_STICK_DEADZONE_MAX_CAPS
+LANG_ENGLISH        "ZONA MORTA MÁXIMA"
+
+REFERENCE           MENU_GPAD_STICK_DEADZONE_MAX_HINT
+LANG_ENGLISH        "Limite máximo de entrada do analógico."
+
+REFERENCE           MENU_GPAD_STICK_DEADZONE_MIN_CAPS
+LANG_ENGLISH        "ZONA MORTA MÍNIMA"
+
+REFERENCE           MENU_GPAD_STICK_DEADZONE_MIN_HINT
+LANG_ENGLISH        "Limite mínimo de entrada do analógico. Valores mais baixos tornam os analógicos mais responsivos a pequenos movimentos."
+
+// OPTIONSETTINGS
+
+REFERENCE           PLATFORM_MAX_FPS_DESC
+LANG_ENGLISH        "Define o máximo de frames por segundo. O \"Sync Every Frame\" deve estar desativado para ajustar o Max FPS. ^3Qualquer valor ^3acima de ^1250 ^3pode causar problemas de movimento, sprint e popups de \"Connection Interrupted\"."
+
+REFERENCE           PLATFORM_FOV_SCALE_CAPS
+LANG_ENGLISH        "ESCALA DE FOV"
+
+REFERENCE           PLATFORM_FOV_SCALE_HINT
+LANG_ENGLISH        "Escala aplicada ao campo de visão."
+
+REFERENCE           PLATFORM_FOV_SENSITIVITY_CAPS
+LANG_ENGLISH        "SENSIBILIDADE DO FOV"
+
+REFERENCE           PLATFORM_FOV_SENSITIVITY_HINT
+LANG_ENGLISH        "Quando ativado, sua sensibilidade é ajustada de acordo com a escala de FOV."
+
+REFERENCE           MENU_STREAMER_MODE_CAPS
+LANG_ENGLISH        "MODO STREAMER"
+
+REFERENCE           MENU_STREAMER_MODE_HINT
+LANG_ENGLISH        "Oculta informações importantes de rede e jogadores."
+
+REFERENCE           MENU_SAFE_AREA_ADJUSTMENT_HINT
+LANG_ENGLISH        "Edite a área segura do HUD."
+
+REFERENCE           MENU_ALLOW_DOWNLOAD_HINT
+LANG_ENGLISH        "Quando ativado, permite fazer download de mods do servidor."
+
+REFERENCE           MENU_ENGINE_SLEEPS_CAPS
+LANG_ENGLISH        "REDUZIR SLEEPS DO MOTOR"
+
+REFERENCE           MENU_ENGINE_SLEEPS_HINT
+LANG_ENGLISH        "Quando ativado, melhora o FPS ao reduzir os sleeps que o motor faz."
+
+REFERENCE           MENU_IDENTIFIER_CAPS
+LANG_ENGLISH        "MOSTRAR IDENTIFICADOR DO JOGO"
+
+REFERENCE           MENU_IDENTIFIER_HINT
+LANG_ENGLISH        "Quando ativado, mostra um identificador único na tela."
+
+REFERENCE           MENU_FLASH_HASHES_CAPS
+LANG_ENGLISH        "EXIBIR HASHES AUTOMATICAMENTE"
+
+REFERENCE           MENU_FLASH_HASHES_HINT
+LANG_ENGLISH        "Quando ativado, exibe os hashes dos scripts na tela no início do jogo."
+
+REFERENCE           MENU_FLASH_HASHES_NOW_CAPS
+LANG_ENGLISH        "MOSTRAR HASHES AGORA"
+
+REFERENCE           MENU_FLASH_HASHES_NOW_HINT
+LANG_ENGLISH        "Mostra os hashes dos scripts na tela agora."
+
+// SAFEAREA
+
+REFERENCE           PLATFORM_SAFE_AREA_CONTROLS_LEFT_RIGHT
+LANG_ENGLISH        "Arraste esquerda / direita"
+
+REFERENCE           PLATFORM_SAFE_AREA_CONTROLS_UP_DOWN
+LANG_ENGLISH        "Arraste cima / baixo"
+
+// SERVERBROWSERFILTERSPOPUP
+
+REFERENCE           MENU_SERVER_BROWSER_CURRENT
+LANG_ENGLISH        "Atual: &&1"
+
+REFERENCE           MENU_SERVER_BROWSER_FILTER
+LANG_ENGLISH        "Digite um filtro"
+
+REFERENCE           MENU_SERVER_BROWSER_SEARCH_FILTER_CAPS
+LANG_ENGLISH        "FILTRO DE BUSCA"
+
+REFERENCE           MENU_SERVER_BROWSER_SEARCH_FILTER_HINT
+LANG_ENGLISH        "Digite um texto para filtrar a lista de servidores."
+
+REFERENCE           MENU_SERVER_BROWSER_DISPLAY_EMPTY_CAPS
+LANG_ENGLISH        "MOSTRAR SERVIDORES VAZIOS"
+
+REFERENCE           MENU_SERVER_BROWSER_DISPLAY_EMPTY_HINT
+LANG_ENGLISH        "Exibe servidores vazios na lista."
+
+// SERVERBROWSERSERVERINFO
+
+REFERENCE           SERVERBROWSER_NO_SERVER_SELECTED
+LANG_ENGLISH        "Nenhum servidor selecionado"
+
+REFERENCE           SERVERBROWSER_CONNECT_TO_SERVER_CAPS
+LANG_ENGLISH        "CONECTAR AO SERVIDOR"
+
+REFERENCE           SERVERBROWSER_CONNECT_TO_SERVER_HINT
+LANG_ENGLISH        "Conectar ao servidor."
+
+REFERENCE           SERVERBROWSER_HOSTNAME
+LANG_ENGLISH        "HOSTNAME: &&1"
+
+REFERENCE           SERVERBROWSER_MAX_PLAYERS
+LANG_ENGLISH        "JOGADORES MÁXIMOS: &&1"
+
+REFERENCE           SERVERBROWSER_MAP_NAME
+LANG_ENGLISH        "MAPA: &&1"
+
+REFERENCE           SERVERBROWSER_GAMETYPE
+LANG_ENGLISH        "TIPO DE JOGO: &&1"
+
+REFERENCE           SERVERBROWSER_PING
+LANG_ENGLISH        "PING: &&1"
+
+REFERENCE           SERVERBROWSER_PLAYERS
+LANG_ENGLISH        "JOGADORES: &&1"
+
+// LOADING
+
+REFERENCE           MPTIP_PLUTONIUM
+LANG_ENGLISH        "Sem o trabalho árduo de todos os desenvolvedores do Plutonium, os jogos que amamos teriam morrido há muito tempo."
+
+// PRIVATEGAMELOBBY
+
+REFERENCE           SERVER_CONNECT
+LANG_ENGLISH        "Conectar ao servidor."
+
+REFERENCE           MENU_TARGET_ASSIST
+LANG_ENGLISH        "Assistência de Mira"
+
+REFERENCE           MENU_TARGET_ASSIST_HINT
+LANG_ENGLISH        "Permite o uso de Assistência de Mira para todos os jogadores de controle."
+
+REFERENCE           MENU_MINPLAYERS_CAPS
+LANG_ENGLISH        "JOGADORES MÍNIMOS"
+
+REFERENCE           MENU_MINPLAYERS_HINT
+LANG_ENGLISH        "O jogo ficará na tela de carregamento até atingir a quantidade mínima de jogadores."
+
+REFERENCE           MENU_CHEATS_CAPS
+LANG_ENGLISH        "CHEATS"
+
+REFERENCE           MENU_CHEATS_HINT
+LANG_ENGLISH        "Ativa cheats no servidor."
+
+// THEATERLOBBY
+
+REFERENCE           MENU_THEATER_NAME
+LANG_ENGLISH        "NOME: &&1"
+
+REFERENCE           MENU_THEATER_MISSING_METADATA
+LANG_ENGLISH        "Metadados Ausentes"
+
+REFERENCE           MENU_THEATER_VERSION
+LANG_ENGLISH        "VERSÃO: &&1"
+
+REFERENCE           MENU_THEATER_DATE
+LANG_ENGLISH        "DATA: &&1"
+
+REFERENCE           MENU_THEATER_HOSTNAME
+LANG_ENGLISH        "HOSTNAME: &&1"
+
+REFERENCE           MENU_THEATER_MAP
+LANG_ENGLISH        "MAPA: &&1"
+
+REFERENCE           MENU_THEATER_GAMETYPE
+LANG_ENGLISH        "TIPO DE JOGO: &&1"
+
+REFERENCE           MENU_THEATER_LENGTH
+LANG_ENGLISH        "DURAÇÃO: &&1"
+
+REFERENCE           MENU_THEATER_INFORMATION_CAPS
+LANG_ENGLISH        "INFORMAÇÕES DO DEMO"
+
+REFERENCE           MENU_THEATER_DATE_CAPS
+LANG_ENGLISH        "DATA"
+
+REFERENCE           MENU_THEATER_LENGTH_CAPS
+LANG_ENGLISH        "DURAÇÃO"
+
+ENDMARKER
