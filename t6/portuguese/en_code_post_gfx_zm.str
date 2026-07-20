@@ -1098,7 +1098,7 @@ REFERENCE           KEY_ALT
 LANG_ENGLISH        "ALT"
 
 REFERENCE           KEY_ARROWS
-LANG_ENGLISH        "ARROWS"
+LANG_ENGLISH        "SETAS"
 
 REFERENCE           KEY_BACKSPACE
 LANG_ENGLISH        "BACKSPACE"
@@ -1113,7 +1113,7 @@ REFERENCE           KEY_DEL
 LANG_ENGLISH        "DEL"
 
 REFERENCE           KEY_DOWNARROW
-LANG_ENGLISH        "DOWN ARROW"
+LANG_ENGLISH        "SETA P/ BAIXO"
 
 REFERENCE           KEY_END
 LANG_ENGLISH        "END"
@@ -1176,7 +1176,7 @@ REFERENCE           KEY_KP_DEL
 LANG_ENGLISH        "KP DEL"
 
 REFERENCE           KEY_KP_DOWNARROW
-LANG_ENGLISH        "KP DOWN ARROW"
+LANG_ENGLISH        "KP SETA P/ BAIXO"
 
 REFERENCE           KEY_KP_END
 LANG_ENGLISH        "KP END"
@@ -1185,7 +1185,7 @@ REFERENCE           KEY_KP_ENTER
 LANG_ENGLISH        "KP ENTER"
 
 REFERENCE           KEY_KP_EQUALS
-LANG_ENGLISH        "KP EQUALS"
+LANG_ENGLISH        "KP IGUAL"
 
 REFERENCE           KEY_KP_HOME
 LANG_ENGLISH        "KP HOME"
@@ -1194,10 +1194,10 @@ REFERENCE           KEY_KP_INS
 LANG_ENGLISH        "KP INS"
 
 REFERENCE           KEY_KP_LEFTARROW
-LANG_ENGLISH        "KP LEFT ARROW"
+LANG_ENGLISH        "KP SETA ESQ."
 
 REFERENCE           KEY_KP_MINUS
-LANG_ENGLISH        "KP MINUS"
+LANG_ENGLISH        "KP MENOS"
 
 REFERENCE           KEY_KP_NUMLOCK
 LANG_ENGLISH        "NUM LOCK"
@@ -1209,34 +1209,34 @@ REFERENCE           KEY_KP_PGUP
 LANG_ENGLISH        "KP PAGE UP"
 
 REFERENCE           KEY_KP_PLUS
-LANG_ENGLISH        "KP PLUS"
+LANG_ENGLISH        "KP MAIS"
 
 REFERENCE           KEY_KP_RIGHTARROW
-LANG_ENGLISH        "KP RIGHT ARROW"
+LANG_ENGLISH        "KP SETA DIR."
 
 REFERENCE           KEY_KP_SLASH
-LANG_ENGLISH        "KP SLASH"
+LANG_ENGLISH        "KP BARRA"
 
 REFERENCE           KEY_KP_STAR
-LANG_ENGLISH        "KP STAR"
+LANG_ENGLISH        "KP ASTERISCO"
 
 REFERENCE           KEY_KP_UPARROW
-LANG_ENGLISH        "KP UP ARROW"
+LANG_ENGLISH        "KP SETA P/ CIMA"
 
 REFERENCE           KEY_LEFT_RIGHT_ARROWS
-LANG_ENGLISH        "LEFT/RIGHT ARROWS"
+LANG_ENGLISH        "SETAS ESQ./DIR."
 
 REFERENCE           KEY_LEFTARROW
-LANG_ENGLISH        "LEFT ARROW"
+LANG_ENGLISH        "SETA ESQ."
 
 REFERENCE           KEY_MOUSE1
-LANG_ENGLISH        "LEFT MOUSE"
+LANG_ENGLISH        "MOUSE ESQ."
 
 REFERENCE           KEY_MOUSE2
-LANG_ENGLISH        "RIGHT MOUSE"
+LANG_ENGLISH        "MOUSE DIR."
 
 REFERENCE           KEY_MOUSE3
-LANG_ENGLISH        "MIDDLE MOUSE"
+LANG_ENGLISH        "MOUSE MEIO"
 
 REFERENCE           KEY_MOUSE4
 LANG_ENGLISH        "MOUSE 4"
@@ -1245,13 +1245,13 @@ REFERENCE           KEY_MOUSE5
 LANG_ENGLISH        "MOUSE 5"
 
 REFERENCE           KEY_MWHEELDOWN
-LANG_ENGLISH        "WHEEL DOWN"
+LANG_ENGLISH        "RODA P/ BAIXO"
 
 REFERENCE           KEY_MWHEELUP
-LANG_ENGLISH        "WHEEL UP"
+LANG_ENGLISH        "RODA P/ CIMA"
 
 REFERENCE           KEY_OR
-LANG_ENGLISH        "OR"
+LANG_ENGLISH        "OU"
 
 REFERENCE           KEY_PAUSE
 LANG_ENGLISH        "PAUSE"
@@ -1263,28 +1263,28 @@ REFERENCE           KEY_PGUP
 LANG_ENGLISH        "PAGE UP"
 
 REFERENCE           KEY_RIGHTARROW
-LANG_ENGLISH        "RIGHT ARROW"
+LANG_ENGLISH        "SETA DIR."
 
 REFERENCE           KEY_SEMICOLON
-LANG_ENGLISH        "SEMICOLON"
+LANG_ENGLISH        "PONTO E VÍRGULA"
 
 REFERENCE           KEY_SHIFT
 LANG_ENGLISH        "SHIFT"
 
 REFERENCE           KEY_SPACE
-LANG_ENGLISH        "SPACE"
+LANG_ENGLISH        "ESPAÇO"
 
 REFERENCE           KEY_TAB
 LANG_ENGLISH        "TAB"
 
 REFERENCE           KEY_UNBOUND
-LANG_ENGLISH        "UNBOUND"
+LANG_ENGLISH        "LIVRE"
 
 REFERENCE           KEY_UP_DOWN_ARROWS
-LANG_ENGLISH        "UP/DOWN ARROWS"
+LANG_ENGLISH        "SETAS CIMA/BAIXO"
 
 REFERENCE           KEY_UPARROW
-LANG_ENGLISH        "UP ARROW"
+LANG_ENGLISH        "SETA P/ CIMA"
 
 REFERENCE           MENU_1000_POINTS
 LANG_ENGLISH        "1000 Pontos"
@@ -1755,10 +1755,10 @@ REFERENCE           MENU_ANNOUNCER_HINT
 LANG_ENGLISH        "Narre ações da equipe inimiga."
 
 REFERENCE           MENU_ANTIALIASING
-LANG_ENGLISH        "Anti-aliasing"
+LANG_ENGLISH        "Suavização de serrilhado"
 
 REFERENCE           MENU_ANTIALIASING_CAPS
-LANG_ENGLISH        "ANTI-ALIASING"
+LANG_ENGLISH        "SUAVIZAÇÃO DE SERRILHADO"
 
 REFERENCE           MENU_APPEARANCE
 LANG_ENGLISH        "Aparência"
@@ -20709,10 +20709,10 @@ REFERENCE           PLATFORM_8X_MSAA_CAPS
 LANG_ENGLISH        "8X MSAA"
 
 REFERENCE           PLATFORM_ACTIONSLOT_3
-LANG_ENGLISH        "ALT FIRE"
+LANG_ENGLISH        "DISPARO ALTERNATIVO"
 
 REFERENCE           PLATFORM_ACTIVATE_SCORE_STREAK_CAPS
-LANG_ENGLISH        "ACTIVATE SCORESTREAK"
+LANG_ENGLISH        "ATIVAR SÉRIE DE PONTUAÇÃO"
 
 REFERENCE           PLATFORM_AFTER_ACTION_REPORT_CAPS
 LANG_ENGLISH        "^BBUTTON_SELECTCHOICE^ RELATÓRIO PÓS-AÇÃO"
@@ -20730,16 +20730,16 @@ REFERENCE           PLATFORM_AIRSTRIKE_GAMBLER
 LANG_ENGLISH        "Segure &&1 para Rolling Thunder ou aperte duas vezes para uma recompensa diferente."
 
 REFERENCE           PLATFORM_AMBIENT_OCCLUSION_CAPS
-LANG_ENGLISH        "AMBIENT OCCLUSION"
+LANG_ENGLISH        "OCLUSÃO DE AMBIENTE"
 
 REFERENCE           PLATFORM_AMBIENT_OCCLUSION_DESC
-LANG_ENGLISH        "Enable or Disable screen space ambient occlusion."
+LANG_ENGLISH        "Ativar ou desativar a oclusão de ambiente no espaço da tela."
 
 REFERENCE           PLATFORM_AMMO_CRATE_GAMBLER
 LANG_ENGLISH        "Segure &&1 para munição ou aperte duas vezes para uma recompensa diferente."
 
 REFERENCE           PLATFORM_ANTIALIASING_DESC
-LANG_ENGLISH        "Choose Multisample Anti-Aliasing mode."
+LANG_ENGLISH        "Escolha o modo Multisample Anti-Aliasing."
 
 REFERENCE           PLATFORM_APPLY_FILTER
 LANG_ENGLISH        "^BBUTTON_SELECTCHOICE^ Aplicar Filtro"
@@ -20778,7 +20778,7 @@ REFERENCE           PLATFORM_BOAT_INSTRUCTION_1
 LANG_ENGLISH        "Use ^BBUTTON_MOVESTICK^ para se mover."
 
 REFERENCE           PLATFORM_BRIGHTNESS_DESC
-LANG_ENGLISH        "Adjust the brightness of your screen. This setting applies only to Fullscreen mode."
+LANG_ENGLISH        "Ajuste o brilho da tela. Esta configuração se aplica apenas ao modo de Tela Inteira."
 
 REFERENCE           PLATFORM_BUTTON_MATCHMAKING_OPTIONS
 LANG_ENGLISH        "^BBUTTON_INTERACT^ Buscar Preferências"
@@ -20814,13 +20814,13 @@ REFERENCE           PLATFORM_CHANGE_PAGES
 LANG_ENGLISH        "Mudar Páginas"
 
 REFERENCE           PLATFORM_CHANGE_STANCE_CAPS
-LANG_ENGLISH        "CHANGE STANCE"
+LANG_ENGLISH        "MUDAR DE POSIÇÃO"
 
 REFERENCE           PLATFORM_CHATMESSAGES_CAPS
-LANG_ENGLISH        "CHAT MESSAGES"
+LANG_ENGLISH        "MENSAGENS NO CHAT"
 
 REFERENCE           PLATFORM_CHATMESSAGES_DESC
-LANG_ENGLISH        "Enable or Disable the in game text chat."
+LANG_ENGLISH        "Ative ou desative o chat de texto dentro do jogo."
 
 REFERENCE           PLATFORM_CHECK_PRO_STATUS
 LANG_ENGLISH        "^BBUTTON_MP_REFRESH^ Ver Desafios para &&1."
@@ -20877,10 +20877,10 @@ REFERENCE           PLATFORM_CONTROLLER_REMOVED
 LANG_ENGLISH        "O controle foi desconectado."
 
 REFERENCE           PLATFORM_CONTROLLER_VIBRATION_CAPS
-LANG_ENGLISH        "GAMEPAD VIBRATION"
+LANG_ENGLISH        "VIBRAÇÃO DO CONTROLE"
 
 REFERENCE           PLATFORM_CONTROLLER_VIBRATION_DESC
-LANG_ENGLISH        "Enable or disable your gamepad vibration."
+LANG_ENGLISH        "Ative ou desative a vibração do seu controle."
 
 REFERENCE           PLATFORM_CONTROLS_LSTICK_RSTICK
 LANG_ENGLISH        "Use [{+movestick}] para mover"
@@ -21066,10 +21066,10 @@ REFERENCE           PLATFORM_DEMONWARE_DISCONNECT
 LANG_ENGLISH        "O servidor do Call of Duty: Black Ops II não está disponível. Tente de novo mais tarde ou verifique a última atualização em http://www.callofduty.com/blackops2/status"
 
 REFERENCE           PLATFORM_DEPTH_OF_FIELD_CAPS
-LANG_ENGLISH        "DEPTH OF FIELD"
+LANG_ENGLISH        "PROFUNDIDADE DE CAMPO"
 
 REFERENCE           PLATFORM_DEPTH_OF_FIELD_DESC
-LANG_ENGLISH        "Set the quality level for the depth of field effect."
+LANG_ENGLISH        "Defina o nível de qualidade para o efeito de profundidade de campo."
 
 REFERENCE           PLATFORM_DIFFEXE_NOT_FRIEND_NOT_JOINABLE
 LANG_ENGLISH        "This invite is not from a friend. You can only accept an invite to a different game if you are friends. This is to prevent non friends from joining your games."
@@ -21093,10 +21093,10 @@ REFERENCE           PLATFORM_DISCONNECTED_FROM_SERVER
 LANG_ENGLISH        "O host deixou o jogo."
 
 REFERENCE           PLATFORM_DISPLAY_MODE_CAPS
-LANG_ENGLISH        "DISPLAY MODE"
+LANG_ENGLISH        "MODO DE EXIBIÇÃO"
 
 REFERENCE           PLATFORM_DISPLAY_MODE_DESC
-LANG_ENGLISH        "Select Windowed, Fullscreen, or Windowed (Fullscreen). Pressing Alt + Enter will toggle between fullscreen and windowed modes."
+LANG_ENGLISH        "Selecione modo janela, Tela Inteira ou janela (Tela Inteira). Pressionar Alt + Enter alterna entre o modo janela padrão e o último modo de Tela Inteira selecionado."
 
 REFERENCE           PLATFORM_DOGS_GAMBLER
 LANG_ENGLISH        "Segure &&1 para Unidade Canina ou Toque duas vezes para uma recompensa diferente"
@@ -21120,10 +21120,10 @@ REFERENCE           PLATFORM_DOWNLOADPACKAGE
 LANG_ENGLISH        "^BBUTTON_SELECTCHOICE^ Baixar Pacote"
 
 REFERENCE           PLATFORM_DRAW_FPS_CAPS
-LANG_ENGLISH        "DRAW FPS"
+LANG_ENGLISH        "EXIBIR FPS"
 
 REFERENCE           PLATFORM_DRAW_FPS_DESC
-LANG_ENGLISH        "Enable or Disable the Frames Per Second counter."
+LANG_ENGLISH        "Ative ou desative o contador de Quadros por Segundo (FPS)."
 
 REFERENCE           PLATFORM_DUALOPTIC_DESC
 LANG_ENGLISH        "ACOG with reflex optic attached on top. Press ^3[{+breath_sprint}]^7 while holding ^3[{+speed_throw}]^7 to switch between optics."
@@ -21390,7 +21390,7 @@ REFERENCE           PLATFORM_EMP_GAMBLER
 LANG_ENGLISH        "Segure &&1 para Sistemas PEM OU Toque duas vezes para uma recompensa diferente"
 
 REFERENCE           PLATFORM_ENABLE_GAMEPAD_CAPS
-LANG_ENGLISH        "ENABLE GAMEPAD"
+LANG_ENGLISH        "ATIVAR CONTROLE"
 
 REFERENCE           PLATFORM_END_GAME
 LANG_ENGLISH        "^BBUTTON_FRIENDSLIST^ fim de jogo"
@@ -21447,7 +21447,7 @@ REFERENCE           PLATFORM_FEEDER_SECONDARY_CONTROLLER_SIGNIN
 LANG_ENGLISH        "Aperte ^BBUTTON_SELECTCHOICE^ Para Entrar"
 
 REFERENCE           PLATFORM_FIELD_OF_VIEW_CAPS
-LANG_ENGLISH        "FIELD OF VIEW"
+LANG_ENGLISH        "CAMPO DE VISÃO"
 
 REFERENCE           PLATFORM_FILE_OPTIONS
 LANG_ENGLISH        "^BBUTTON_SELECTCHOICE^ Salvar ou Ver Jogo"
@@ -21516,7 +21516,7 @@ REFERENCE           PLATFORM_FOLLOWSTOP
 LANG_ENGLISH        "^BBUTTON_MP_TOGGLECHASECAM^ Câmera Livre"
 
 REFERENCE           PLATFORM_FOV_DESC
-LANG_ENGLISH        "Adjust your Field of View to allow a wider or narrower view in game."
+LANG_ENGLISH        "Ajuste seu Campo de Visão para permitir uma visão mais ampla ou mais estreita no jogo."
 
 REFERENCE           PLATFORM_FREEFALL
 LANG_ENGLISH        "Use [{+movestick}] para controlar Queda Livre."
@@ -21531,7 +21531,7 @@ REFERENCE           PLATFORM_FXAA_CAPS
 LANG_ENGLISH        "FXAA"
 
 REFERENCE           PLATFORM_FXAA_DESC
-LANG_ENGLISH        "Enable or Disable FXAA."
+LANG_ENGLISH        "Habilite ou desabilite o FXAA."
 
 REFERENCE           PLATFORM_GAME_SUMMARY
 LANG_ENGLISH        "^BBUTTON_INTERACT^ Relatório Pós-Ação"
@@ -21597,7 +21597,7 @@ REFERENCE           PLATFORM_HIDE_STATS_MILESTONES
 LANG_ENGLISH        "^BBUTTON_MP_CANCELCOMMAND^ Ocultar Desafios"
 
 REFERENCE           PLATFORM_HIGH_CAPS
-LANG_ENGLISH        "HIGH"
+LANG_ENGLISH        "ALTO"
 
 REFERENCE           PLATFORM_HOLD_1_TO_TURN_THE_BASE
 LANG_ENGLISH        "Segure &&1 para virar a base do tanque de forma a alinhá-la com a torreta."
@@ -21735,13 +21735,13 @@ REFERENCE           PLATFORM_LOBBY_LEADERBOARD
 LANG_ENGLISH        "^BBUTTON_INTERACT^ Marcador da sala."
 
 REFERENCE           PLATFORM_LOOK_SENSITIVITY_DESC
-LANG_ENGLISH        "Adjust the sensitivity of your gampad's sticks."
+LANG_ENGLISH        "Ajuste a sensibilidade dos analógicos do seu controle."
 
 REFERENCE           PLATFORM_LOW_AMMO_NO_RELOAD
 LANG_ENGLISH        "Munição Baixa"
 
 REFERENCE           PLATFORM_LOW_CAPS
-LANG_ENGLISH        "LOW"
+LANG_ENGLISH        "BAIXO"
 
 REFERENCE           PLATFORM_M202_FLASH_GAMBLER
 LANG_ENGLISH        "Segure &&1 para Ceifador ou aperte duas vezes para uma recompensa diferente."
@@ -21762,13 +21762,13 @@ REFERENCE           PLATFORM_MAX_CORPSES_DESC
 LANG_ENGLISH        "Set the Number of Corpses to display on screen."
 
 REFERENCE           PLATFORM_MAX_FPS_CAPS
-LANG_ENGLISH        "MAX FRAMES PER SECOND"
+LANG_ENGLISH        "MÁXIMO DE QUADROS POR SEGUNDO"
 
 REFERENCE           PLATFORM_MAX_FPS_DESC
 LANG_ENGLISH        "Set the maximum frames per second. Sync Every Frame must be disabled to adjust Max FPS."
 
 REFERENCE           PLATFORM_MEDIUM_CAPS
-LANG_ENGLISH        "MEDIUM"
+LANG_ENGLISH        "MÉDIO"
 
 REFERENCE           PLATFORM_MICROWAVE_TURRET_GAMBLER
 LANG_ENGLISH        "Segure &&1 para Guardião OU Toque duas vezes para uma recompensa diferente"
@@ -21789,7 +21789,7 @@ REFERENCE           PLATFORM_MONITOR_CAPS
 LANG_ENGLISH        "MONITOR"
 
 REFERENCE           PLATFORM_MONITOR_DESC
-LANG_ENGLISH        "Select which display to use for multi-monitor displays. Only available in Fullscreen and Windowed(Fullscreen)"
+LANG_ENGLISH        "Selecione qual tela usar em configurações de múltiplos monitores. Disponível apenas nos modos Tela Inteira e Janela (Tela Inteira)."
 
 REFERENCE           PLATFORM_MOVE_CAMERA
 LANG_ENGLISH        "Use [{+movestick}] para controlar a câmera."
@@ -21804,10 +21804,10 @@ REFERENCE           PLATFORM_NEXT_CAPS
 LANG_ENGLISH        "^BBUTTON_SELECTCHOICE^ PRÓXIMO"
 
 REFERENCE           PLATFORM_NEXT_SCORE_STREAK_CAPS
-LANG_ENGLISH        "NEXT SCORESTREAK"
+LANG_ENGLISH        "PRÓXIMO SÉRIES DE PONTUAÇÃO"
 
 REFERENCE           PLATFORM_NEXT_WEAPON_CAPS
-LANG_ENGLISH        "NEXT WEAPON"
+LANG_ENGLISH        "PRÓXIMA ARMA"
 
 REFERENCE           PLATFORM_NEXTPLAYLISTENTRY
 LANG_ENGLISH        "^BBUTTON_MP_READY^ próximo mapa/modo de jogo"
@@ -21963,7 +21963,7 @@ REFERENCE           PLATFORM_PREVIEW
 LANG_ENGLISH        "^BBUTTON_INTERACT^ Ter uma Prévia"
 
 REFERENCE           PLATFORM_PREVIOUS_SCORE_STREAK_CAPS
-LANG_ENGLISH        "PREVIOUS SCORESTREAK"
+LANG_ENGLISH        "SÉRIES DE PONTUAÇÃO ANTERIOR"
 
 REFERENCE           PLATFORM_PROCEED
 LANG_ENGLISH        "Aperte ^BBUTTON_SELECTCHOICE^ para continuar."
@@ -21996,7 +21996,7 @@ REFERENCE           PLATFORM_RAGDOLL_CAPS
 LANG_ENGLISH        "RAGDOLL"
 
 REFERENCE           PLATFORM_RAGDOLL_DESC
-LANG_ENGLISH        "Enable or Disable ragdoll physics."
+LANG_ENGLISH        "Ativar ou desativar a física ragdoll."
 
 REFERENCE           PLATFORM_RC_BOMB_ACCELERATE
 LANG_ENGLISH        "^BBUTTON_MOVE^ Avançar/Reverter"
@@ -22143,7 +22143,7 @@ REFERENCE           PLATFORM_SCOREBOARD_CAPS
 LANG_ENGLISH        "TABELA DE PONTUAÇÃO"
 
 REFERENCE           PLATFORM_SCOREBOARD_TOGGLE_CAPS
-LANG_ENGLISH        "SCOREBOARD TOGGLE"
+LANG_ENGLISH        "ALTERNAR PLACAR"
 
 REFERENCE           PLATFORM_SCREENSHOT_PAN
 LANG_ENGLISH        "^BBUTTON_MOVE^ Panoramizar"
@@ -22170,7 +22170,7 @@ REFERENCE           PLATFORM_SETTINGS
 LANG_ENGLISH        "^BBUTTON_INTERACT^ Configurações"
 
 REFERENCE           PLATFORM_SHADOWS_DESC
-LANG_ENGLISH        "Enable or disable dynamic shadows and select shadow map resolution."
+LANG_ENGLISH        "Ative ou desative as sombras dinâmicas e selecione a resolução do mapa de sombras."
 
 REFERENCE           PLATFORM_SHOW_CLAN_CARD
 LANG_ENGLISH        "^BBUTTON_INTERACT^ Vire Para Mostrar o Cartão de Clã"
@@ -22200,7 +22200,7 @@ REFERENCE           PLATFORM_SLING_HINT
 LANG_ENGLISH        "Puxe [{+movestick}] pra trás para preparar arremesso e solte para disparar."
 
 REFERENCE           PLATFORM_SOUND_DEVICE_CAPS
-LANG_ENGLISH        "SOUND DEVICE"
+LANG_ENGLISH        "DISPOSITIVO DE SOM"
 
 REFERENCE           PLATFORM_SP_UNLOCK_INFO
 LANG_ENGLISH        "Você desbloqueou "Zumbis" para os modos solo e cooperativo. Sobreviva a um violento assalto do exército morto-vivo e compare suas estatísticas com amigos nos Placares de Líderes!"
@@ -22296,7 +22296,7 @@ REFERENCE           PLATFORM_SWAPWEAPONS
 LANG_ENGLISH        "Segure &&1 por "
 
 REFERENCE           PLATFORM_SWITCH_WEAPON_CAPS
-LANG_ENGLISH        "PREVIOUS WEAPON"
+LANG_ENGLISH        "ARMA ANTERIOR"
 
 REFERENCE           PLATFORM_SWITCHSEATS
 LANG_ENGLISH        "^BBUTTON_MP_TOGGLEVIEW^ Mudar Assento"
@@ -22329,19 +22329,19 @@ REFERENCE           PLATFORM_TEST_LEVELS
 LANG_ENGLISH        "^BBUTTON_FRIENDSLIST^ Fases Teste"
 
 REFERENCE           PLATFORM_TEXTURE_FILTERING_DESC
-LANG_ENGLISH        "Select Texture Filtering mode."
+LANG_ENGLISH        "Selecionar modo de filtragem de textura."
 
 REFERENCE           PLATFORM_TEXTURE_QUALITY_DESC
-LANG_ENGLISH        "Adjust the resolutions of the textures used by the game."
+LANG_ENGLISH        "Ajuste as resoluções das texturas usadas pelo jogo."
 
 REFERENCE           PLATFORM_THIRDPERSON
 LANG_ENGLISH        "Visão em 3ª Pessoa"
 
 REFERENCE           PLATFORM_THROW_PRIMARY_CAPS
-LANG_ENGLISH        "THROW PRIMARY"
+LANG_ENGLISH        "LANÇAR PRIMÁRIA"
 
 REFERENCE           PLATFORM_THROW_SECONDARY_CAPS
-LANG_ENGLISH        "THROW SECONDARY"
+LANG_ENGLISH        "LANÇAR SECUNDÁRIA"
 
 REFERENCE           PLATFORM_THROWBACKGRENADE
 LANG_ENGLISH        "&&1 Atirar de Volta"
@@ -22425,10 +22425,10 @@ REFERENCE           PLATFORM_USEVEHICLEGUNNER
 LANG_ENGLISH        "Aperte ^BBUTTON_INTERACT^ para tomar a posição de atirador do veículo."
 
 REFERENCE           PLATFORM_VIDEO_MODE_CAPS
-LANG_ENGLISH        "SCREEN RESOLUTION"
+LANG_ENGLISH        "RESOLUÇÃO DE TELA"
 
 REFERENCE           PLATFORM_VIDEO_MODE_DESC
-LANG_ENGLISH        "Change your display resolution or window size."
+LANG_ENGLISH        "Altere a resolução da tela ou o tamanho da janela."
 
 REFERENCE           PLATFORM_VIEW_CLANCARD
 LANG_ENGLISH        "^BBUTTON_INTERACT^ Ver Cartão de Clã"
@@ -22458,16 +22458,16 @@ REFERENCE           PLATFORM_VIEWGAMER
 LANG_ENGLISH        "^BBUTTON_SELECTCHOICE^ Ver Jogador"
 
 REFERENCE           PLATFORM_VOICECHAT_DESC
-LANG_ENGLISH        "Enable or Disable Voice Chat."
+LANG_ENGLISH        "Ativar ou desativar o bate-papo por voz."
 
 REFERENCE           PLATFORM_VOICEMETER_DESC
-LANG_ENGLISH        "This will display how loud your voice output is. To increase/decrease volume you will need to change the Recording Controls in your Windows Sound settings."
+LANG_ENGLISH        "Isso mostrará o quão alto está a saída da sua voz. Para aumentar/diminuir o volume, você precisará alterar os Controles de Gravação nas configurações de som do seu sistema operacional."
 
 REFERENCE           PLATFORM_VOTE_TO_SKIP
 LANG_ENGLISH        "Votar para Pular ^BBUTTON_MP_REFRESH^ "
 
 REFERENCE           PLATFORM_VSYNC_DESC
-LANG_ENGLISH        "Match screen updates with your monitor's refresh rate. Enabling this will cap your FPS to your monitor's refresh rate, but will prevent screen tearing."
+LANG_ENGLISH        "Sincronize as atualizações da tela com a taxa de atualização do seu monitor. Ativar essa opção limitará seus FPS à taxa de atualização do monitor, mas evitará o "screen tearing" (rasgamento de tela)."
 
 REFERENCE           PLATFORM_WAGER_PULLDOWN_TOGGLE
 LANG_ENGLISH        "^BBUTTON_MP_GAMERCARD^ Ativar/Desativar Estatísticas"
@@ -22476,10 +22476,10 @@ REFERENCE           PLATFORM_WHILE_LOOKING_THROUGH
 LANG_ENGLISH        "Enquanto usa os binóculos, pressione &&1 para chamar a artilharia."
 
 REFERENCE           PLATFORM_WINDOWED
-LANG_ENGLISH        "Windowed"
+LANG_ENGLISH        "Janela"
 
 REFERENCE           PLATFORM_WINDOWED_FULLSCREEN
-LANG_ENGLISH        "Windowed (Fullscreen)"
+LANG_ENGLISH        "Janela (Tela Inteira)"
 
 REFERENCE           PLATFORM_XBOX_LIVE
 LANG_ENGLISH        "Xbox LIVE"

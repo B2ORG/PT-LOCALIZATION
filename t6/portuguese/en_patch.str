@@ -465,7 +465,7 @@ REFERENCE           MENU_TAB_EXPERT
 LANG_ENGLISH        "ESPECIALISTA/ATIRADOR"
 
 REFERENCE           PLATFORM_CHATMESSAGES_DESC
-LANG_ENGLISH        "Enable or Disable the in game text chat."
+LANG_ENGLISH        "Ative ou desative o chat de texto dentro do jogo."
 
 REFERENCE           MENU_TRILINEAR_CAPS
 LANG_ENGLISH        "TRILINEAR"
@@ -501,7 +501,7 @@ REFERENCE           MENU_BRIGHTNESS_BARELY_VISIBLE
 LANG_ENGLISH        "Quase invisível"
 
 REFERENCE           MENU_ANTIALIASING
-LANG_ENGLISH        "Anti-aliasing"
+LANG_ENGLISH        "Suavização de serrilhado"
 
 REFERENCE           MENU_DEMO_HIGHLIGHT_REEL_NUM_AVAILABLE
 LANG_ENGLISH        "Clipes Disponíveis: &&1"
@@ -834,7 +834,7 @@ REFERENCE           MENU_PRIVATE_MATCH
 LANG_ENGLISH        "Partida Particular"
 
 REFERENCE           PLATFORM_TEXTURE_QUALITY_DESC
-LANG_ENGLISH        "Adjust the resolutions of the textures used by the game."
+LANG_ENGLISH        "Ajuste as resoluções das texturas usadas pelo jogo."
 
 REFERENCE           CLASS_SLOT4_CAPS
 LANG_ENGLISH        "PERSONALIZADA 4"
@@ -1569,7 +1569,7 @@ REFERENCE           MENU_UNLIMITED
 LANG_ENGLISH        "Ilimitado"
 
 REFERENCE           PLATFORM_VOICECHAT_RECORD_LEVEL_DESC
-LANG_ENGLISH        "Adjust your mic record level."
+LANG_ENGLISH        "Ajustar o nível de captação do seu microfone."
 
 REFERENCE           MENU_LB_DFILTER_MONTHLY
 LANG_ENGLISH        "Mensal"
@@ -2337,7 +2337,7 @@ REFERENCE           MENU_START_GAME
 LANG_ENGLISH        "Começar Jogo"
 
 REFERENCE           PLATFORM_BRIGHTNESS_DESC
-LANG_ENGLISH        "Adjust the brightness of your screen. This setting applies only to Fullscreen mode."
+LANG_ENGLISH        "Ajuste o brilho da tela. Esta configuração se aplica apenas ao modo de Tela Inteira."
 
 REFERENCE           MENU_EMBLEM_RECENT_COLOR_HINTTEXT
 LANG_ENGLISH        "Edite a cor escolhendo uma cor recentemente usada."
@@ -2694,7 +2694,7 @@ REFERENCE           MENU_SERVER_INFO
 LANG_ENGLISH        "Informações do Servidor"
 
 REFERENCE           PLATFORM_LOW_CAPS
-LANG_ENGLISH        "LOW"
+LANG_ENGLISH        "BAIXO"
 
 REFERENCE           MENU_SYSTEM_TEST_CAPS
 LANG_ENGLISH        "TESTE DE SISTEMA"
@@ -3354,7 +3354,7 @@ REFERENCE           MENU_ENDOFGAME_CAPS
 LANG_ENGLISH        "FIM DO JOGO"
 
 REFERENCE           PLATFORM_DEPTH_OF_FIELD_DESC
-LANG_ENGLISH        "Set the quality level for the depth of field effect."
+LANG_ENGLISH        "Defina o nível de qualidade para o efeito de profundidade de campo."
 
 REFERENCE           MENU_HIT_MARKERS_DISABLED
 LANG_ENGLISH        "DESABILITADO"
@@ -3906,7 +3906,7 @@ REFERENCE           MENU_STANCE_UP
 LANG_ENGLISH        "Levantar-se"
 
 REFERENCE           PLATFORM_AMBIENT_OCCLUSION_CAPS
-LANG_ENGLISH        "AMBIENT OCCLUSION"
+LANG_ENGLISH        "OCLUSÃO DE AMBIENTE"
 
 REFERENCE           WEAPON_SENSOR_GRENADE
 LANG_ENGLISH        "Granada Sensorial"
@@ -5586,7 +5586,7 @@ REFERENCE           MENU_FRENCH
 LANG_ENGLISH        "Francês"
 
 REFERENCE           PLATFORM_MAX_FPS_DESC
-LANG_ENGLISH        "Set the maximum frames per second. Sync Every Frame must be disabled to adjust Max FPS. Multiplayer Public Match and League Play have a maximum FPS cap of 200."
+LANG_ENGLISH        "Define o máximo de frames por segundo. Desative o Sync Every Frame para ajustar o Max FPS. Partidas Públicas e League Play possuem um limite máximo de 200 FPS."
 
 REFERENCE           MENU_GERMAN
 LANG_ENGLISH        "Alemão"
@@ -7734,7 +7734,7 @@ REFERENCE           MENU_XP_CAPS
 LANG_ENGLISH        "XP"
 
 REFERENCE           PLATFORM_MAX_FPS_CAPS
-LANG_ENGLISH        "MAX FRAMES PER SECOND"
+LANG_ENGLISH        "MÁXIMO DE QUADROS POR SEGUNDO"
 
 REFERENCE           MENU_CLICK_TO_CONTINUE
 LANG_ENGLISH        "Clique para Continuar"
@@ -8190,7 +8190,7 @@ REFERENCE           MENU_OFFENSIVENAME
 LANG_ENGLISH        "Nome de Clã negado devido à presença de texto proibido."
 
 REFERENCE           PLATFORM_DRAW_FPS_CAPS
-LANG_ENGLISH        "DRAW FPS"
+LANG_ENGLISH        "EXIBIR FPS"
 
 REFERENCE           MENU_SPECULAR_MAP
 LANG_ENGLISH        "Mapa Especular"
@@ -8235,7 +8235,7 @@ REFERENCE           MENU_NOTRAPS
 LANG_ENGLISH        "Sem Armadilhas"
 
 REFERENCE           PLATFORM_DEPTH_OF_FIELD_CAPS
-LANG_ENGLISH        "DEPTH OF FIELD"
+LANG_ENGLISH        "PROFUNDIDADE DE CAMPO"
 
 REFERENCE           MENU_MY_ASSAULT
 LANG_ENGLISH        "Meu Ataque"
@@ -8583,7 +8583,7 @@ REFERENCE           EXE_COD_LEADERBOARD_WRITE_BAN
 LANG_ENGLISH        "Você foi banido desta Leaderboard."
 
 REFERENCE           PLATFORM_SHADOWS_DESC
-LANG_ENGLISH        "Enable or disable dynamic shadows and select shadow map resolution."
+LANG_ENGLISH        "Ative ou desative as sombras dinâmicas e selecione a resolução do mapa de sombras."
 
 REFERENCE           MENU_SELECT_CHEATS
 LANG_ENGLISH        "Selecionar Trapaças"
@@ -10392,7 +10392,7 @@ REFERENCE           MPUI_RPS
 LANG_ENGLISH        "Pedra, Papel, Tesoura"
 
 REFERENCE           PLATFORM_RAGDOLL_DESC
-LANG_ENGLISH        "Enable or Disable ragdoll physics."
+LANG_ENGLISH        "Ativar ou desativar a física ragdoll."
 
 REFERENCE           MENU_PURCHASE_BOTTOM
 LANG_ENGLISH        "Comprar Suporte Inferior"
@@ -11724,7 +11724,7 @@ REFERENCE           WEAPON_STINGER
 LANG_ENGLISH        "FIM-92 Stinger"
 
 REFERENCE           PLATFORM_VIDEO_MODE_DESC
-LANG_ENGLISH        "Change your display resolution or window size."
+LANG_ENGLISH        "Altere a resolução da tela ou o tamanho da janela."
 
 REFERENCE           MPUI_RULES_2_5SECONDS_CAPS
 LANG_ENGLISH        "2,5 SEGUNDOS"
@@ -12141,7 +12141,7 @@ REFERENCE           CH_SP_BLACKOUT_SEALS_SAVED
 LANG_ENGLISH        "Provide sniper overwatch for SEAL team advance across flight deck"
 
 REFERENCE           MENU_ANTIALIASING_CAPS
-LANG_ENGLISH        "ANTI-ALIASING"
+LANG_ENGLISH        "SUAVIZAÇÃO DE SERRILHADO"
 
 REFERENCE           MENU_2X_CAPS
 LANG_ENGLISH        "2X"
@@ -13635,7 +13635,7 @@ REFERENCE           MENU_DEMO_HIGHLIGHT_REEL_STYLE_SETTINGS_VEHICLE
 LANG_ENGLISH        "Baixas por Veículos"
 
 REFERENCE           PLATFORM_HIGH_CAPS
-LANG_ENGLISH        "HIGH"
+LANG_ENGLISH        "ALTO"
 
 REFERENCE           WEAPON_SARITCH_FASTADS
 LANG_ENGLISH        "SMR com Sacada Rápida"
@@ -13761,7 +13761,7 @@ REFERENCE           WEAPON_DSR50_DUALCLIP
 LANG_ENGLISH        "DSR 50 com Porta Pente"
 
 REFERENCE           PLATFORM_ANTIALIASING_DESC
-LANG_ENGLISH        "Choose Multisample Anti-Aliasing mode."
+LANG_ENGLISH        "Escolha o modo Multisample Anti-Aliasing."
 
 REFERENCE           MENU_LIVESTREAMING_DESC
 LANG_ENGLISH        "Ativar/Desativar Transmissão ao Vivo."
@@ -15888,7 +15888,7 @@ REFERENCE           MENU_YEMEN
 LANG_ENGLISH        "Yemen"
 
 REFERENCE           PLATFORM_DRAW_FPS_DESC
-LANG_ENGLISH        "Enable or Disable the Frames Per Second counter."
+LANG_ENGLISH        "Ative ou desative o contador de Quadros por Segundo (FPS)."
 
 REFERENCE           MPUI_4_CALL_VOTE
 LANG_ENGLISH        "4. Reclamar Voto"
@@ -17553,7 +17553,7 @@ REFERENCE           EXE_NOSAVEGAMES
 LANG_ENGLISH        "(nenhum jogo salvo)"
 
 REFERENCE           PLATFORM_MONITOR_DESC
-LANG_ENGLISH        "Select which display to use for multi-monitor displays. Only available in Fullscreen and Windowed(Fullscreen)"
+LANG_ENGLISH        "Selecione qual tela usar em configurações de múltiplos monitores. Disponível apenas nos modos Tela Inteira e Janela (Tela Inteira)."
 
 REFERENCE           MPUI_SPECTATING_PRE
 LANG_ENGLISH        "Assistindo:"
@@ -17784,7 +17784,7 @@ REFERENCE           MPUI_CHOOSE_CLASS_CAPS
 LANG_ENGLISH        "ESCOLHER CLASSE"
 
 REFERENCE           MENU_VIEW_FULL_SCREEN
-LANG_ENGLISH        "Ver Tela Cheia"
+LANG_ENGLISH        "Ver Tela Inteira"
 
 REFERENCE           MPUI_CUSTOM_CLASSES
 LANG_ENGLISH        "Classes Personalizadas"
@@ -19635,7 +19635,7 @@ REFERENCE           MPUI_RETICLE_DIAMOND02
 LANG_ENGLISH        "Diamante Contorno"
 
 REFERENCE           PLATFORM_MEDIUM_CAPS
-LANG_ENGLISH        "MEDIUM"
+LANG_ENGLISH        "MÉDIO"
 
 REFERENCE           MPUI_STALKER_SHORT
 LANG_ENGLISH        "Estoque"
@@ -20700,7 +20700,7 @@ REFERENCE           MPUI_DEFUSES
 LANG_ENGLISH        "Desarmes"
 
 REFERENCE           PLATFORM_ACTIVATE_SCORE_STREAK_CAPS
-LANG_ENGLISH        "ACTIVATE SCORESTREAK"
+LANG_ENGLISH        "ATIVAR SÉRIE DE PONTUAÇÃO"
 
 REFERENCE           MPUI_RESET_STATS
 LANG_ENGLISH        "Reiniciar Estatísticas"
@@ -21705,7 +21705,7 @@ REFERENCE           MPUI_ITEM_UNLOCKED
 LANG_ENGLISH        "ITEM DESBLOQUEADO"
 
 REFERENCE           PLATFORM_THROW_SECONDARY_CAPS
-LANG_ENGLISH        "THROW SECONDARY"
+LANG_ENGLISH        "LANÇAR SECUNDÁRIA"
 
 REFERENCE           MPUI_EDIT_MODS_CAPS
 LANG_ENGLISH        "EDITAR MODS"
@@ -22752,7 +22752,7 @@ REFERENCE           TICKER_COUNTERS_FALLOFFEVEREST
 LANG_ENGLISH        "COMO UMA PEDRA: Jogadores de Black Ops II, todos juntos, caíram o equivalente ao Monte Everest &&1 vezes."
 
 REFERENCE           PLATFORM_THROW_PRIMARY_CAPS
-LANG_ENGLISH        "THROW PRIMARY"
+LANG_ENGLISH        "LANÇAR PRIMÁRIA"
 
 REFERENCE           TICKER_COUNTERS_MONEYSPENT
 LANG_ENGLISH        "QUEBRANDO O PORQUINHO: ^BCP^ &&1 foi gasto."
@@ -23916,7 +23916,7 @@ REFERENCE           STATS_PERSONALBEST_BASIC_PENETRATION_KILLS
 LANG_ENGLISH        "Most Kills Firing Through Objects"
 
 REFERENCE           PLATFORM_PREVIOUS_SCORE_STREAK_CAPS
-LANG_ENGLISH        "PREVIOUS SCORESTREAK"
+LANG_ENGLISH        "SÉRIES DE PONTUAÇÃO ANTERIOR"
 
 REFERENCE           STATS_PERSONALBEST_BASIC_MULTI_KILLS
 LANG_ENGLISH        "Most Multi-Kills"
@@ -24534,7 +24534,7 @@ REFERENCE           WEAPON_UZI_DUAL_ATTACH
 LANG_ENGLISH        "Uzi com Múltiplos Anexos"
 
 REFERENCE           PLATFORM_AMBIENT_OCCLUSION_DESC
-LANG_ENGLISH        "Enable or Disable screen space ambient occlusion."
+LANG_ENGLISH        "Ativar ou desativar a oclusão de ambiente no espaço da tela."
 
 REFERENCE           WEAPON_UZI_GRIP
 LANG_ENGLISH        "Uzi com Cabo"
@@ -25305,7 +25305,7 @@ REFERENCE           WEAPON_SMAW_DESC
 LANG_ENGLISH        "Lança-mísseis portátil de disparo livre. Pode travar a mira em veículos e torretas."
 
 REFERENCE           PLATFORM_VOICECHAT_VOLUME
-LANG_ENGLISH        "VOICE CHAT VOLUME"
+LANG_ENGLISH        "VOLUME DE CHAT POR VOZ"
 
 REFERENCE           WEAPON_TOW_DESC
 LANG_ENGLISH        "Míssil antitanque controlável."
@@ -25890,7 +25890,7 @@ REFERENCE           EXE_ERR_LOW_PING_ONLY
 LANG_ENGLISH        "Este servidor é apenas para jogadores com baixa latência."
 
 REFERENCE           PLATFORM_CONTROLLER_VIBRATION_CAPS
-LANG_ENGLISH        "GAMEPAD VIBRATION"
+LANG_ENGLISH        "VIBRAÇÃO DO CONTROLE"
 
 REFERENCE           EXE_DISCONNECTED_FROM_SERVER
 LANG_ENGLISH        "Desconectado do servidor"
@@ -26229,13 +26229,13 @@ REFERENCE           PLATFORM_PRESS_TO_ACCEPT_INVITE
 LANG_ENGLISH        "Press ^3F9^7 to accept."
 
 REFERENCE           PLATFORM_VIDEO_MODE_CAPS
-LANG_ENGLISH        "SCREEN RESOLUTION"
+LANG_ENGLISH        "RESOLUÇÃO DE TELA"
 
 REFERENCE           PLATFORM_NEXT_WEAPON_CAPS
-LANG_ENGLISH        "NEXT WEAPON"
+LANG_ENGLISH        "PRÓXIMA ARMA"
 
 REFERENCE           PLATFORM_SWITCH_WEAPON_CAPS
-LANG_ENGLISH        "PREVIOUS WEAPON"
+LANG_ENGLISH        "ARMA ANTERIOR"
 
 REFERENCE           PLATFORM_8X_MSAA_CAPS
 LANG_ENGLISH        "8X MSAA"
@@ -26247,31 +26247,31 @@ REFERENCE           PLATFORM_EMBLEM_SCALE_LAYER_KBM
 LANG_ENGLISH        "Drag ^BBUTTON_MOUSE_LEFT^+ ^BBUTTON_MOUSE_RIGHT^ to change the scale of the emblem"
 
 REFERENCE           PLATFORM_LOOK_SENSITIVITY_DESC
-LANG_ENGLISH        "Adjust the sensitivity of your gampad's sticks."
+LANG_ENGLISH        "Ajuste a sensibilidade dos analógicos do seu controle."
 
 REFERENCE           PLATFORM_CONTROLLER_VIBRATION_DESC
-LANG_ENGLISH        "Enable or disable your gamepad vibration."
+LANG_ENGLISH        "Ative ou desative a vibração do seu controle."
 
 REFERENCE           PLATFORM_ENTER_MAX_FPS
 LANG_ENGLISH        "Enter a value 20-999 or 0 for off"
 
 REFERENCE           PLATFORM_DISPLAY_MODE_DESC
-LANG_ENGLISH        "Select Windowed, Fullscreen, or Windowed (Fullscreen). Pressing Alt+Enter will toggle between standard windowed mode and the last selected fullscreen mode."
+LANG_ENGLISH        "Selecione modo janela, Tela Inteira ou janela (Tela Inteira). Pressionar Alt + Enter alterna entre o modo janela padrão e o último modo de Tela Inteira selecionado."
 
 REFERENCE           VIDSUBTITLES_PRO_1_VIDEO14
 LANG_ENGLISH        "^1Woods: ^7Turn the camera on."
 
 REFERENCE           PLATFORM_VSYNC_DESC
-LANG_ENGLISH        "Match screen updates with your monitor's refresh rate. Enabling this will cap your FPS to your monitor's refresh rate, but will prevent screen tearing."
+LANG_ENGLISH        "Sincronize as atualizações da tela com a taxa de atualização do seu monitor. Ativar essa opção limitará seus FPS à taxa de atualização do monitor, mas evitará o "screen tearing" (rasgamento de tela)."
 
 REFERENCE           PLATFORM_FOV_DESC
-LANG_ENGLISH        "Adjust your Field of View to allow a wider or narrower view in game. Setting FOV above ^165^7 may result in lower framerate and some graphical issues."
+LANG_ENGLISH        "Ajuste o seu Campo de Visão (FOV) para obter uma visão mais ampla ou mais estreita no jogo. Definir o FOV acima de 65 pode resultar em uma taxa de quadros mais baixa e em alguns problemas gráficos."
 
 REFERENCE           PLATFORM_TEXTURE_FILTERING_DESC
-LANG_ENGLISH        "Select Texture Filtering mode."
+LANG_ENGLISH        "Selecionar modo de filtragem de textura."
 
 REFERENCE           PLATFORM_FXAA_DESC
-LANG_ENGLISH        "Enable or Disable FXAA."
+LANG_ENGLISH        "Habilite ou desabilite o FXAA."
 
 REFERENCE           PLATFORM_BLOOM_QUALITY_DESC
 LANG_ENGLISH        "Set the quality level for the depth of bloom effect."
@@ -26280,10 +26280,10 @@ REFERENCE           PLATFORM_LAGOMETER_DESC
 LANG_ENGLISH        "Enable or Disable Lagometer."
 
 REFERENCE           PLATFORM_VOICECHAT_DESC
-LANG_ENGLISH        "Enable or Disable Voice Chat."
+LANG_ENGLISH        "Ativar ou desativar o bate-papo por voz."
 
 REFERENCE           PLATFORM_VOICEMETER_DESC
-LANG_ENGLISH        "This will display how loud your voice output is."
+LANG_ENGLISH        "Isso exibirá o volume da sua saída de voz."
 
 REFERENCE           PLATFORM_DIFFEXE_NOT_FRIEND_NOT_JOINABLE
 LANG_ENGLISH        "This invite is not from a friend. You can only accept an invite to a different game if you are friends. This is to prevent non friends from joining your games."
@@ -26295,22 +26295,22 @@ REFERENCE           PLATFORM_DYK_COOP_MSG24
 LANG_ENGLISH        "Regra Número 1: Sempre alerta!"
 
 REFERENCE           PLATFORM_ACTIONSLOT_3
-LANG_ENGLISH        "ALT FIRE"
+LANG_ENGLISH        "DISPARO ALTERNATIVO"
 
 REFERENCE           PLATFORM_YES
 LANG_ENGLISH        "^BBUTTON_YES^ Sim"
 
 REFERENCE           PLATFORM_NEXT_SCORE_STREAK_CAPS
-LANG_ENGLISH        "NEXT SCORESTREAK"
+LANG_ENGLISH        "PRÓXIMO SÉRIES DE PONTUAÇÃO"
 
 REFERENCE           PLATFORM_SOUND_DEVICE_CAPS
-LANG_ENGLISH        "SOUND DEVICE"
+LANG_ENGLISH        "DISPOSITIVO DE SOM"
 
 REFERENCE           PLATFORM_FXAA_CAPS
 LANG_ENGLISH        "FXAA"
 
 REFERENCE           PLATFORM_DISPLAY_MODE_CAPS
-LANG_ENGLISH        "DISPLAY MODE"
+LANG_ENGLISH        "MODO DE EXIBIÇÃO"
 
 REFERENCE           PLATFORM_WINDOWED
 LANG_ENGLISH        "Windowed"
@@ -26319,19 +26319,19 @@ REFERENCE           PLATFORM_RAGDOLL_CAPS
 LANG_ENGLISH        "RAGDOLL"
 
 REFERENCE           PLATFORM_FIELD_OF_VIEW_CAPS
-LANG_ENGLISH        "FIELD OF VIEW"
+LANG_ENGLISH        "CAMPO DE VISÃO"
 
 REFERENCE           PLATFORM_ENABLE_GAMEPAD_CAPS
-LANG_ENGLISH        "ENABLE GAMEPAD"
+LANG_ENGLISH        "ATIVAR CONTROLE"
 
 REFERENCE           PLATFORM_CHATMESSAGES_CAPS
-LANG_ENGLISH        "CHAT MESSAGES"
+LANG_ENGLISH        "MENSAGENS NO CHAT"
 
 REFERENCE           PLATFORM_INVITE_ALREADY_INLOBBY
 LANG_ENGLISH        "User is already in the lobby."
 
 REFERENCE           PLATFORM_CHANGE_STANCE_CAPS
-LANG_ENGLISH        "CHANGE STANCE"
+LANG_ENGLISH        "MUDAR DE POSIÇÃO"
 
 REFERENCE           PLATFORM_DEMO_FOLLOWNEXTPLAYER
 LANG_ENGLISH        "^3LEFT MOUSE^7"
@@ -26412,7 +26412,7 @@ REFERENCE           PLATFORM_SCOREBOARD_CAPS
 LANG_ENGLISH        "TABELA DE PONTUAÇÃO"
 
 REFERENCE           PLATFORM_SCOREBOARD_TOGGLE_CAPS
-LANG_ENGLISH        "SCOREBOARD TOGGLE"
+LANG_ENGLISH        "ALTERNAR PLACAR"
 
 REFERENCE           PLATFORM_SCOREBOARD
 LANG_ENGLISH        "^BBUTTON_MP_SCOREBOARD^ Pontuação"
@@ -28872,10 +28872,10 @@ REFERENCE           MENU_RENDER_VIDEO_ACTIVATE_DESC
 LANG_ENGLISH        "Siga as instruções para publicar os seus vídeos renderizados do Black Ops II na sua conta do YouTube:"
 
 REFERENCE           PLATFORM_VOICECHAT_VOLUME_DESC
-LANG_ENGLISH        "Adjust the volume of other players voices ingame."
+LANG_ENGLISH        "Ajustar o volume da voz de outros jogadores no jogo."
 
 REFERENCE           PLATFORM_VOICECHAT_RECORD_LEVEL
-LANG_ENGLISH        "VOICE CHAT RECORD LEVEL"
+LANG_ENGLISH        "NÍVEL DE GRAVAÇÃO DE BATE-PAPO DE VOZ"
 
 REFERENCE           PLATFORM_GETTING_STEAM_TICKET
 LANG_ENGLISH        "Getting data from Steam..."
