@@ -80,7 +80,7 @@ LANG_ENGLISH        "Limite mínimo de entrada do analógico. Valores mais baixo
 // OPTIONSETTINGS
 
 REFERENCE           PLATFORM_MAX_FPS_DESC
-LANG_ENGLISH        "Define o máximo de frames por segundo. O \"Sync Every Frame\" deve estar desativado para ajustar o Max FPS. ^3Qualquer valor ^3acima de ^1250 ^3pode causar problemas de movimento, sprint e popups de \"Connection Interrupted\"."
+LANG_ENGLISH        "Define o máximo de frames por segundo. O \"Sincronizar Cada Quadro\" deve estar desativado para ajustar o Max FPS. ^3Qualquer valor ^3acima de ^1250 ^3pode causar problemas de movimento, sprint e popups de \"Conexão Interrompida\"."
 
 REFERENCE           PLATFORM_FOV_SCALE_CAPS
 LANG_ENGLISH        "ESCALA DE FOV"
