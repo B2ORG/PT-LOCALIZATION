@@ -140,6 +140,24 @@ LANG_ENGLISH        "Arraste cima / baixo"
 
 // SERVERBROWSERFILTERSPOPUP
 
+REFERENCE           MENU_SERVER_BROWSER_SEARCH_FILTER_HINT
+LANG_ENGLISH        "Digite um texto para filtrar a lista de servidores."
+
+REFERENCE           MENU_SERVER_BROWSER_DISPLAY_EMPTY_HINT
+LANG_ENGLISH        "Exibe servidores vazios na lista."
+
+REFERENCE           MENU_SERVER_BROWSER_DISPLAY_FULL_HINT
+LANG_ENGLISH        "Mostrar servidores cheios na lista de servidores."
+
+REFERENCE           MENU_SERVER_BROWSER_PASSWORD_PROTECTED_HINT
+LANG_ENGLISH        "Mostrar servidores protegidos por senha na lista de servidores."
+
+REFERENCE           MENU_SERVER_BROWSER_MAX_PING_HINT
+LANG_ENGLISH        "Ping máximo dos servidores na lista de servidores."
+
+REFERENCE           MENU_SERVER_BROWSER_AIM_ASSIST_HINT
+LANG_ENGLISH        "Mostrar servidores com assistência de mira na lista de servidores."
+
 REFERENCE           MENU_SERVER_BROWSER_CURRENT
 LANG_ENGLISH        "Atual: &&1"
 
@@ -149,14 +167,9 @@ LANG_ENGLISH        "Digite um filtro"
 REFERENCE           MENU_SERVER_BROWSER_SEARCH_FILTER_CAPS
 LANG_ENGLISH        "FILTRO DE BUSCA"
 
-REFERENCE           MENU_SERVER_BROWSER_SEARCH_FILTER_HINT
-LANG_ENGLISH        "Digite um texto para filtrar a lista de servidores."
-
 REFERENCE           MENU_SERVER_BROWSER_DISPLAY_EMPTY_CAPS
 LANG_ENGLISH        "MOSTRAR SERVIDORES VAZIOS"
 
-REFERENCE           MENU_SERVER_BROWSER_DISPLAY_EMPTY_HINT
-LANG_ENGLISH        "Exibe servidores vazios na lista."
 
 // SERVERBROWSERSERVERINFO
 
